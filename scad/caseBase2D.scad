@@ -1,3 +1,11 @@
+/*
+ * OSCCR - caseBase2d
+ * 
+ * Licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0).
+ * For full license details, see: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ */
+
+
 module caseBase2d() { //2d plot, cut out of 2mm stainless steel and welded to caseCylinder
     difference() {
         circle(89);
